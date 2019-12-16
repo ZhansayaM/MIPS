@@ -1,3 +1,6 @@
+# OP2 implemented, but only for one string
+#'reverse' should be implemented with a0, a1, etc. as arguments, not s0, t0, k0, etc.
+
 .data
 	source:		.space	1024
 	reversed:	.space	1024
