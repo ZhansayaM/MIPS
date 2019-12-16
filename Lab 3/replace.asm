@@ -1,3 +1,5 @@
+# 'replace' and 'printArrInt' should be implemented as independent procedures with a0, a1, etc. as arguments, not using temporary variables as t0, t1, etc.
+
 .data
 	Arr: .word 21, 20, 51, 83, 20, 20
 	x: .word 20
