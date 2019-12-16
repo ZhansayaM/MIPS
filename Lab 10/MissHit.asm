@@ -1,3 +1,5 @@
+# M >= 6000 && M < 7000 :: 80pts;; -Incorrect combination of number and size of the blocks, by incorrect we mean any combination that doesn't give 128 kb of cache size:: -10pts;;
+
 .data
 	array: .byte 1024
 .text
