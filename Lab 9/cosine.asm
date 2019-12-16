@@ -1,4 +1,6 @@
+# Not finished
 # insert int, convert to float, put into $f12, jal cosine, return $f0
+
 .data
 	pi: .float 3.14159265359
 	prompt: .asciiz "Please, enter the value of the angle in degree: "
