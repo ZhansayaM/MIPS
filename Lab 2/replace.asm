@@ -1,3 +1,5 @@
+# Did not replace array elements, just printed y if x is encountered
+
 .data
 	Arr: .word 21, 20, 51, 83, 20, 20
 	x: .word 20
