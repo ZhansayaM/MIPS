@@ -1,3 +1,5 @@
+# 'sort' should be implemented as separate and independent procedure, with jr $ra
+
 .data 
 	length: .word 6
 	S: .asciiz "H ello"
