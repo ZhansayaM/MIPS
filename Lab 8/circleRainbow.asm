@@ -1,3 +1,5 @@
+# Draws only 1 orange circle
+
 .data
 	DISPLAY: .space 16384
 	DISPLAYWIDTH: .word 64
